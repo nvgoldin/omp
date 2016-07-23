@@ -1,3 +1,3 @@
-Orthogonal Matcing Pursuit simulation
-created for SSP course huji 2015
+Orthogonal Matching Pursuit algorithm simulation in Matlab
 
+Created for Statistical Signal Processing course at HUJI 2015
